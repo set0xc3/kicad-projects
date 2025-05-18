@@ -1,2 +1,3 @@
-sandbox-backups/
+*-backups/
 fp-info-cache
+*.bak
